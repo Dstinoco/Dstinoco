@@ -1,7 +1,5 @@
 👋 Bem-vindo(a) ao meu perfil!
 
-👋 Bem-vindo(a) ao meu perfil!
-
 📚 Estudando atualmente: 
 • Sistemas de Informação - Estácio (Último Período)
 • Estudante de: Engenharia de Dados, Data Lakes, Pipelines de Dados, e Ferramentas de Nuvem (Azure, Databricks) 
