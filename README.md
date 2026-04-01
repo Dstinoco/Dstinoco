@@ -1,31 +1,26 @@
-👋 Bem-vindo(a) ao meu perfil!
+👨‍💻 Engenheiro de Dados Pleno | Especialista em Big Data | Python & Spark Developer
 
-📚 Estudando atualmente: 
-• Sistemas de Informação - Estácio (Último Período)
-• Estudante de: Engenharia de Dados, Data Lakes, Pipelines de Dados, e Ferramentas de Nuvem (Azure, Databricks) 
-• Estudante de: Python, Flask, APIs, Automação de Dados, e Streaming de Dados
+👋 Olá, eu sou o Douglas!
+Sou Engenheiro de Dados focado em construir pipelines eficientes e soluções de governança automatizadas. Atualmente, trabalho com grandes volumes de dados no setor de saúde e desenvolvo projetos de processamento de dados não estruturados.
 
-💼 Trabalho atual: 
-Atualmente, sou Engenheiro de Dados na MedSênior, onde sou responsável por desenvolver e otimizar pipelines de dados, garantindo a ingestão e estruturação eficiente de grandes volumes de dados em nosso Data Lake Corporativo. Atuo em diversas etapas do ciclo de vida dos dados, desde a extração de múltiplas fontes (APIs, Kafka, bancos de dados, arquivos CSV, JSON, entre outros) até a validação e sustentação de pipelines em produção, utilizando ferramentas como Azure Data Factory e Databricks. Também participo na criação e manutenção de APIs em Flask para suportar processos de ingestão e automação de dados.
+🎓 Educação: Pós-graduado em Big Data & Bacharel em Sistemas de Informação.
 
-Funções e Responsabilidades:
+🏢 Trabalho Atual: Engenheiro de Dados na MedSênior.
 
-Construção de Pipelines de Dados: Desenvolvimento de pipelines desde a extração de fontes diversas (bancos de dados, APIs, Kafka, arquivos CSV/JSON/XML) até a ingestão no Data Lake.
-Azure e Databricks: Utilizando Azure Data Factory e Databricks para desenvolvimento e otimização de pipelines.
-Catalogação e Controle de Qualidade: Garantia da integridade e consistência dos dados através de controles de qualidade.
-Implantação e Validação: Acompanhamento da implantação em produção e validação dos pipelines.
-Sustentação Pós-Implantação: Suporte contínuo aos pipelines em produção.
-Desenvolvimento de APIs: Criação e manutenção de APIs em Flask para automação de dados.
-QUALIFICAÇÕES
+🛠 Main Stack: Python (PySpark), Azure Data Factory, Databricks, AWS e SQL.
 
-Engenharia de Dados (Pipelines, Data Lakes, Processamento em Lote e Streaming)
-Python (Automação, Consumo de APIs, Flask, Análise de Dados)
-Ferramentas de Nuvem (Azure Data Factory, Databricks)
-Desenvolvimento Full Stack (Django, Flask, HTML, CSS, APIs)
-Conhecimento em Banco de Dados (SQL Server, Oracle, DB2, MySQL)
-Experiência com Streaming de Dados (Kafka, APIs)
-ITIL Foundation (Gestão da Biblioteca de Infraestrutura de TI)
-Experiência com Servidores e Sistemas Operacionais (Linux e Windows)
-Suporte e Análise de Sistemas (ERP, Chatbots)
-Redes e Segurança (Firewall, Nginx, Greylog, Linux)
+🚀 Projetos de Destaque
+Data Governance ERP: Ferramenta para catalogação automática de metadados (Databricks Unity Catalog, Power BI, ADF e RDBMS).
 
+High-Volume OCR Pipeline: Automação para extração de tabelas em milhares de PDFs escaneados com processamento em lote.
+
+Streaming Pipelines: Implementação de fluxos em tempo real utilizando Kafka e Spark Streaming.
+
+📊 Tecnologias & Ferramentas
+Cloud: Azure & AWS
+
+Data: Spark (PySpark), Delta Lake, Kafka, Airflow.
+
+Bancos: Oracle, SQL Server, PostgreSQL, MongoDB, Elasticsearch.
+
+Web/Dev: Flask, Django, Docker, Linux.
